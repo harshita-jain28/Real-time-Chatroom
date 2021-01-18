@@ -7,4 +7,4 @@ This project is a chatroom with different room options like general, music, comp
 * CSS
 * Javascript
 * Bootstrap
-* Firebase
+* Firebas
